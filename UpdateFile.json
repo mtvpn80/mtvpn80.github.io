@@ -1,11 +1,11 @@
 {
- "version": 1,
+ "version": 2,
  "message": "📕TrueEsport\n📗AisPlay\n📘Dtac",
  "dtac": "",
  "true": "",
  "ais": "",
- "Reward": "",
- "Inter": "",
+ "Reward": "ca-app-pub-8278924142679566/1844070919",
+ "Inter": "ca-app-pub-8278924142679566/5528165056",
  "files": [
   {
    "name": "TH-TrueNoPro-02",
